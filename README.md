@@ -1,3 +1,3 @@
 # Roblox-Ip-logger
 
-you get ip of person on discord server via discord webbook
+when person execute loadstring script you will  get ip of that person on discord server via discord webbook
